@@ -1,1 +1,51 @@
+// ==UserScript==
+// @name         [Working] Bypass Key All Executors Make By Heiskso
+// @homepageURL  https://dsc.gg/heiskso
+// @description  Bypasses Roblox Exploits Key Systems (Codex, Fluxus, Arceus, Delta, Valyse, Keyrblx, Pandadevelopment, HoHo Hub, Tsuohub)
+// @author       binhandheiskso (998776394735693844)
 
+// @match        https://mobile.codex.lol/*
+// @match        https://fluxusbypass.pages.dev/*
+// @match        https://keysystem.fluxteam.net/android/checkpoint/start.php?HWID=*
+// @match        https://spdmteam.com/key-system-1?hwid=*
+// @match        https://gateway.platoboost.com/a/8?id=*
+// @match        https://valyse.best/verification?device_id=*
+// @match        https://keyrblx.com/getkey/*
+// @match        https://pandadevelopment.net/getkey?*
+// @match        https://hohohubv-ac90f67762c4.herokuapp.com/api/getkeyv2?hwid=*
+// @match        https://tsuo-script.xyz/*
+
+// @connect      linkvertise.com
+// @connect      short-jambo.com
+// @connect      api.codex.lol
+// @connect      cdn.jsdelivr.net
+// @connect      fluxteam.net
+// @connect      spdmteam.com
+// @connect      api-gateway.platoboost.com
+// @connect      api.valyse.best
+// @connect      api.keyrblx.com
+// @connect      pandadevelopment.net
+// @connect      hohohubv-ac90f67762c4.herokuapp.com
+// @connect      tsuo-script.xyz
+// @connect      *
+
+// @version      3.0
+// @run-at       document-end
+// @grant        GM_xmlhttpRequest
+// @grant        GM_notification
+// @grant        GM_openInTab
+
+// @antifeatures ads
+
+// @license      MIT
+// @supportURL   https://dsc.gg/heiskso
+// @icon         https://files.catbox.moe/gu2z11.jpg
+// @namespace    https://greasyfork.org/users/1237543
+// @require      https://raw.githubusercontent.com/Heiskso/BypassKey/main/bypasstampermokey
+// ==/UserScript==
+
+// HHH   HHH  EEEEE  III  SSSSS  K     K   SSSSS   OOO
+// HHH   HHH  EE      I   SS     K    K   SS     OO   OO
+// HHHHHHHHH  EEEE    I    SSSS  KKKK    SSSS  OO   OO
+// HHH   HHH  EE      I       SS K    K      SS OO   OO
+// HHH   HHH  EEEEE  III  SSSSS  K     K SSSSS   OOO
